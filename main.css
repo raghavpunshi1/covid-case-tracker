@@ -1,0 +1,58 @@
+#searchdiv{
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: 10px;
+    height: 30rem;
+}
+#searchresult{
+    margin-right: 1px;
+}
+#title{
+    text-align: center;
+    font-weight: 700;
+}
+#date{
+    background-color: bisque;
+    margin-top: 13px;
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 25px;
+}
+#cardid{
+    background-color:rgba(228, 226, 231, 0.877);
+}
+#cardidmain{
+    background-color:rgba(241, 239, 245, 0.877);
+    width: 96%;
+
+}
+.card{
+    padding: 20px;
+    margin: 10px;
+    margin-bottom: 20px;
+    float: right;
+}
+.countryName{
+    /* text-align: center; */
+    font-size: 40px;
+    font-weight: 500;
+}
+.flag{
+    margin:0;
+    float: right;
+    height: 40px;
+    width: 55px;
+}
+.covid_icon{
+    margin:0;
+    float: inline-end;
+    height: 80px;
+    width: 105px;
+}
+#allcountrybutton{
+    margin-right: 100px;
+}
+#searchboximg{
+    margin: 50px;
+    margin-top: 25px;
+}
